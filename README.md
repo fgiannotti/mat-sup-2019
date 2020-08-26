@@ -9,3 +9,25 @@
 - [ ] Hito OA - 21/05
 - [ ] Hito SF - 30/05
 - [ ] GOLIVE – 17/06
+
+```
+Usage: main.py [OPTIONS] COMMAND [ARGS]...
+
+  Una super herramienta para jugar con complejos
+
+Options:
+  -d, --debug  Muestra los logs de debug.
+  --help       Show this message and exit.
+  
+
+Commands:
+  calcular-raiz  Ingresar primero numero y luego radicando
+  dividir
+  elevar-a-la-n  Ingresar primero numero y luego potencia
+  modelar        Modela en formas trigonometrica, binomica y polar.
+  multiplicar
+  restar
+  sumar
+  sumar-fasores
+```
+
